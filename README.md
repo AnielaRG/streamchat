@@ -54,3 +54,7 @@ ChatInput ──send()──▶ useChatStream ──POST /api/chat──▶ Expr
 ## Built with AI assistance
 
 Developed with Claude Code guided by [`CLAUDE.md`](./CLAUDE.md); every change reviewed and covered by tests where it matters.
+
+## License
+
+MIT. See [LICENSE](./LICENSE).
